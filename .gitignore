@@ -1,1 +1,6 @@
 examples/julia_example/Manifest.toml 
+datasets/
+results/
+solutions/
+stats/
+
